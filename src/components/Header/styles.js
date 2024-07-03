@@ -1,8 +1,9 @@
 import styled from "styled-components";
+
 export const HeaderWrapper = styled.header`
   position: relative;
   width: 100%;
-  background-image: url("/assets/hero-2-cover.png");
+  background-image: url("./src/assets/hero-2-cover.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
